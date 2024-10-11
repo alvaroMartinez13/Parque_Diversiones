@@ -1,4 +1,4 @@
-# 🧙🏼‍♀️ Parque atracciones
+# 🎟️ Parque atracciones 🎟️
 
 Este proyecto se centra en el desarrollo de unas consultas, procedimientos, funciones y eventos según establecidos en los requerimientos. Se desea en primera instancia desarrollar lo anterior mencionado para ver el funcionamiento y el cumplimiento de la Base de Datos desarrollada.
 
